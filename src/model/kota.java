@@ -26,6 +26,6 @@ public class kota {
         System.out.println("id : "+this.id);
         System.out.println("("+this.x+","+this.y+") "+this.berat);
     }
-    
+    public void getKOta(){}
     
 }
