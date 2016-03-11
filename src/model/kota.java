@@ -27,5 +27,7 @@ public class kota {
         System.out.println("("+this.x+","+this.y+") "+this.berat);
     }
     
-    
+    public void getJarak(){
+        int a = 3-1;
+    }
 }
