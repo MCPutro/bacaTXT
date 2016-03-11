@@ -33,5 +33,6 @@ public class kota {
     
     public void getKOtaTerdekat(){
         System.out.println("hahahah");
+        System.out.println("ojrojr");
     }
 }
