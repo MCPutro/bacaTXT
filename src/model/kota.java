@@ -30,4 +30,8 @@ public class kota {
     public void getJarak(){
         int a = 3-1;
     }
+    
+    public void getKOtaTerdekat(){
+        System.out.println("hahahah");
+    }
 }
