@@ -35,7 +35,8 @@ public class kota {
         System.out.println("hahahah");
         System.out.println("ojrojr");
         System.out.println("hahahah");
-        System.out.println("ojrojr");System.out.println("hahahah");
+        System.out.println("ojrojr");
+        System.out.println("hahahah");
         System.out.println("ojrojr");
         
     }
